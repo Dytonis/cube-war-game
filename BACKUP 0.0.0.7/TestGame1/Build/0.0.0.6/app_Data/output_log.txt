@@ -1,0 +1,685 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.033 seconds
+desktop: 1920x1080 144Hz; virtual: 5760x1482 at -3840,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Games\1\TestGame1\Build\0.0.0.6\app_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4de0 -> priority: 1 
+  Thread -> id: 4bc8 -> priority: 1 
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 13(13), 9(9), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 14(14), 9(9), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 12(12), 9(9), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 9(9), 12(12)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 9(9), 14(14)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(15), 9(9), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 9(9), 15(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 9(9), 13(13)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(15), 8(8), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 8(8), 15(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 14(14), 8(8), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 13(13), 8(8), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 8(8), 14(14)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 8(8), 13(13)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 12(12), 8(8), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(15), 8(8), 12(12)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Self Chunk: Quad (44)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 8(8), 12(12)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Self Chunk: Quad (44)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 12(12)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (44)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 13(13)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 1(1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(0), 9(9), 15(0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Parent chunk: Quad (51)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 0(0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 0(0), 9(9), 0(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Self Chunk: Quad (44)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 15(15)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Self Chunk: Quad (44)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+HIT: Quad (26)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Bridge update! 15(0), 9(9), 14(14)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.PlayFootStepAudio () [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.ProgressStepCycle (Single speed) [0x00000] in <filename unknown>:0 
+  at UnityStandardAssets.Characters.FirstPerson.FirstPersonController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
